@@ -76,8 +76,7 @@ def main():
     if new_tweet:
         check_similarity(new_tweet, tweets_data)
 
-    # Display all tweets from tweets.json
-    st.subheader("All Tweets from tweets.json")
+    st.subheader("Tweets generated using llm for testing purposes")
     for tweet in tweets_data:
         st.write(f"@{tweet['username']}")
         st.write(tweet['text'])
