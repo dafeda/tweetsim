@@ -1,77 +1,202 @@
 [
-    {
-      "username": "EconExpert",
-      "text": "The law of supply and demand is the backbone of market economics. Understanding it is crucial for predicting market behavior.",
-      "created_at": "2023-08-15T10:30:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "Breaking: Federal Reserve announces 0.25% interest rate hike. How will this affect your investments?",
-      "created_at": "2023-08-14T14:45:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "China's economic slowdown could have ripple effects across global markets. Keep an eye on emerging market currencies.",
-      "created_at": "2023-08-13T09:15:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "Cryptocurrency adoption in developing countries is on the rise. Is this the future of international remittances?",
-      "created_at": "2023-08-12T16:20:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "New study suggests carbon taxes could boost economic growth while combating climate change. Thoughts?",
-      "created_at": "2023-08-11T11:05:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "U.S. unemployment rate drops to 3.5%. What does this mean for wage growth and inflation?",
-      "created_at": "2023-08-10T13:40:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "The gig economy is reshaping traditional employment. How will this affect social security systems?",
-      "created_at": "2023-08-09T08:55:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "Trade deficits aren't always bad. They can indicate a strong economy attracting foreign investment.",
-      "created_at": "2023-08-08T15:10:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "Inflation expectations play a crucial role in actual inflation rates. Central banks closely monitor these expectations.",
-      "created_at": "2023-08-07T12:25:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "The Phillips Curve suggests a trade-off between unemployment and inflation. But does it hold in modern economies?",
-      "created_at": "2023-08-06T09:50:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "Economic growth doesn't always lead to reduced inequality. Policy makers need to consider distributional effects.",
-      "created_at": "2023-08-05T17:35:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "Behavioral economics challenges traditional assumptions about rational decision-making. How does this affect policy?",
-      "created_at": "2023-08-04T11:20:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "The velocity of money has been declining in many developed economies. What are the implications for monetary policy?",
-      "created_at": "2023-08-03T14:05:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "Comparative advantage is key to understanding international trade. But what about when factors of production are mobile?",
-      "created_at": "2023-08-02T10:40:00.000Z"
-    },
-    {
-      "username": "EconExpert",
-      "text": "The Laffer Curve suggests there's an optimal tax rate for maximizing government revenue. But where exactly is that point?",
-      "created_at": "2023-08-01T16:15:00.000Z"
-    }
-  ]
+  {
+    "username": "EconExpert",
+    "text": "The law of supply and demand is the backbone of market economics. Understanding it is crucial for predicting market behavior."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Breaking: Federal Reserve announces 0.25% interest rate hike. How will this affect your investments?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "China's economic slowdown could have ripple effects across global markets. Keep an eye on emerging market currencies."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Cryptocurrency adoption in developing countries is on the rise. Is this the future of international remittances?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "New study suggests carbon taxes could boost economic growth while combating climate change. Thoughts?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "U.S. unemployment rate drops to 3.5%. What does this mean for wage growth and inflation?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The gig economy is reshaping traditional employment. How will this affect social security systems?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Trade deficits aren't always bad. They can indicate a strong economy attracting foreign investment."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Inflation expectations play a crucial role in actual inflation rates. Central banks closely monitor these expectations."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The Phillips Curve suggests a trade-off between unemployment and inflation. But does it hold in modern economies?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Economic growth doesn't always lead to reduced inequality. Policy makers need to consider distributional effects."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Behavioral economics challenges traditional assumptions about rational decision-making. How does this affect policy?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The velocity of money has been declining in many developed economies. What are the implications for monetary policy?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Comparative advantage is key to understanding international trade. But what about when factors of production are mobile?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The Laffer Curve suggests there's an optimal tax rate for maximizing government revenue. But where exactly is that point?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Quantitative easing: A necessary evil or a ticking time bomb for future inflation?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The rise of fintech is disrupting traditional banking. How will this impact financial stability?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Is GDP an outdated measure of economic well-being? Time to consider alternatives like the Genuine Progress Indicator?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The 'Dutch Disease': How natural resource wealth can paradoxically lead to economic stagnation."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Negative interest rates: A radical tool for stimulating the economy or a sign of desperation?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The sharing economy is changing patterns of ownership. What are the long-term economic implications?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Automation and AI are reshaping labor markets. How can we prepare for the jobs of the future?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The paradox of thrift: When saving more can actually harm the economy during recessions."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Are economic sanctions an effective tool of foreign policy? The debate continues."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The pros and cons of a universal basic income. Could it be the solution to technological unemployment?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "How does game theory apply to international trade negotiations? Understanding strategic interactions is key."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The economics of climate change: Why market-based solutions like cap-and-trade systems are gaining traction."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Is the gig economy exacerbating income inequality? New research suggests it might be."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The role of central bank independence in maintaining price stability. Should there be more democratic oversight?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "How do exchange rates impact international trade? Understanding the mechanics of currency markets is crucial."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The economics of healthcare: Why is it so complicated and what can be done to reduce costs?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Are we headed for another housing bubble? Analyzing current market trends and policy responses."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The impact of demographic shifts on economic growth. Aging populations pose challenges for many developed economies."
+  },
+  {
+    "username": "EconExpert",
+    "text": "How do network effects shape the digital economy? Understanding why 'winner-takes-all' is so common in tech."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The economics of education: Is the current student debt model sustainable in the long run?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Exploring the concept of 'nudge theory' in behavioral economics. Small changes can lead to big impacts."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The role of institutions in economic development. Why some countries prosper while others lag behind."
+  },
+  {
+    "username": "EconExpert",
+    "text": "How do economic indicators like PMI and consumer confidence influence market sentiment?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The debate over fiscal vs. monetary policy: Which is more effective in managing the economy?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Understanding the yield curve and its predictive power for recessions. Is an inversion always bad news?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "The economics of renewable energy: As technology improves, is grid parity finally within reach?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "How do economic sanctions impact global supply chains? Unintended consequences can be far-reaching."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The role of trust in economic transactions. Social capital is a crucial but often overlooked factor in development."
+  },
+  {
+    "username": "EconExpert",
+    "text": "Is inflation always bad? Understanding the nuances of price stability and economic growth."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The economics of intellectual property: Balancing innovation incentives with public access to knowledge."
+  },
+  {
+    "username": "EconExpert",
+    "text": "How do sovereign wealth funds impact global financial markets? Their growing influence raises new questions."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The pros and cons of dollarization for developing economies. Is giving up monetary sovereignty worth it?"
+  },
+  {
+    "username": "EconExpert",
+    "text": "Understanding the concept of 'creative destruction' in innovation economics. Change can be disruptive but necessary."
+  },
+  {
+    "username": "EconExpert",
+    "text": "The economics of happiness: Is there more to well-being than GDP growth? New metrics are emerging."
+  },
+  {
+    "username": "EconExpert",
+    "text": "How do tax havens affect global economic stability? The debate over international tax competition continues."
+  }
+]
